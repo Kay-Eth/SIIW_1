@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SIIW_Genetic": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
